@@ -6,3 +6,4 @@ View Snake Game with: https://raw.githack.com/JubiLeed/Javascript-Projects/main/
 
 View Solar System HTML with: https://raw.githack.com/JubiLeed/Javascript--Solar-System/main/Solar%20System/index.html
 
+View Tic Tac Toe Game with: https://raw.githack.com/JubiLeed/Javascript-Projects/main/Tic%20Tac%20Toe/index.html
